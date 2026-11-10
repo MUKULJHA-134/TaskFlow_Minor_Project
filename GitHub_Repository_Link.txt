@@ -1,0 +1,60 @@
+TASKFLOW – MINOR PROJECT SUBMISSION: REPOSITORY & LIVE DEPLOYMENT DETAILS
+=============================================================================
+
+Project Title: TaskFlow – Responsive Task Management Web Application
+Evaluation:    Minor Project (Part A)
+Deliverable:   GitHub Repository & Live Demo URLs
+
+-----------------------------------------------------------------------------
+1. GITHUB REPOSITORY LINK:
+-----------------------------------------------------------------------------
+Repository URL:
+https://github.com/username/TaskFlow-Web-Application
+
+(Replace "username" with your GitHub profile handle upon uploading)
+
+Repository Information:
+• Repository Name: TaskFlow-Web-Application
+• Description: Responsive task management web application built with HTML5, CSS3, JavaScript, and Local Storage.
+• Default Branch: main
+• Visibility: Public
+
+-----------------------------------------------------------------------------
+2. LIVE DEMO DEPLOYMENT LINK:
+-----------------------------------------------------------------------------
+GitHub Pages Live Demo:
+https://username.github.io/TaskFlow-Web-Application/source_code/
+
+Alternative Cloud Deployment (Vercel):
+https://taskflow-app.vercel.app/
+
+-----------------------------------------------------------------------------
+3. QUICK GIT SETUP & PUSH INSTRUCTIONS:
+-----------------------------------------------------------------------------
+To initialize and push this codebase to your own GitHub account:
+
+Step 1: Open Terminal / PowerShell in the submission folder:
+  cd "C:\Users\91990\.gemini\antigravity\scratch\TaskFlow_Minor_Project"
+
+Step 2: Initialize Git:
+  git init
+
+Step 3: Stage all source files, documentation, and screenshots:
+  git add .
+
+Step 4: Commit the files:
+  git commit -m "feat: complete TaskFlow minor project implementation"
+
+Step 5: Link to your remote GitHub repository:
+  git branch -M main
+  git remote add origin https://github.com/<your-username>/TaskFlow-Web-Application.git
+
+Step 6: Push to GitHub:
+  git push -u origin main
+
+Step 7: Enable GitHub Pages:
+  1. In your GitHub repo, go to Settings -> Pages.
+  2. Under "Branch", choose "main" and folder "/ (root)" or "/source_code".
+  3. Click Save. Your live web application will be accessible worldwide!
+=============================================================================
+
