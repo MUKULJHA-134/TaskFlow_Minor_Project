@@ -11,7 +11,7 @@ Deliverable:   GitHub Repository & Live Demo URLs
 Repository URL:
 https://github.com/MUKULJHA-134/TaskFlow_Minor_Project
 VIT LIC:
-
+https://taskflowminorproject-sourcecode.vercel.app/
 
 (Replace "username" with your GitHub profile handle upon uploading)
 
@@ -25,10 +25,10 @@ Repository Information:
 2. LIVE DEMO DEPLOYMENT LINK:
 -----------------------------------------------------------------------------
 GitHub Pages Live Demo:
-https://username.github.io/TaskFlow-Web-Application/source_code/
+https://MUKULJHA-134/TaskFlow-Minor_project/source_code/
 
 Alternative Cloud Deployment (Vercel):
-https://taskflow-app.vercel.app/
+https://taskflowminorproject-sourcecode.vercel.app/
 
 -----------------------------------------------------------------------------
 3. QUICK GIT SETUP & PUSH INSTRUCTIONS:
