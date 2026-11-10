@@ -9,7 +9,7 @@ Deliverable:   GitHub Repository & Live Demo URLs
 1. GITHUB REPOSITORY LINK:
 -----------------------------------------------------------------------------
 Repository URL:
-https://github.com/MUKULJHA-134/Minor_project_internselite
+https://github.com/MUKULJHA-134/TaskFlow_Minor_Project
 VIT LIC:
 
 
