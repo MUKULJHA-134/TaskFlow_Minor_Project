@@ -128,7 +128,7 @@ npx serve .
    - Go to **Settings** > **Pages**.
    - Under **Build and deployment** > **Branch**, select `main` branch and `/source_code` (or root) folder.
    - Click **Save**.
-4. Your application will be live at `https://<your-username>.github.io/TaskFlow-Web-Application/`!
+4. Your application will be live at `[https://github.com/MUKULJHA-134/TaskFlow_Minor_Project]`!
 
 ### Deploy to Vercel
 1. Install Vercel CLI (`npm i -g vercel`) or visit [vercel.com](https://vercel.com).
@@ -150,5 +150,5 @@ npx serve .
 ---
 
 ## 📄 License
-This project is submitted as an academic Minor Project deliverable. Open source under the MIT License.
+This project is submitted as an academic Minor Project deliverable. Open source under the ISC License.
 
