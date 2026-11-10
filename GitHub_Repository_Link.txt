@@ -9,7 +9,9 @@ Deliverable:   GitHub Repository & Live Demo URLs
 1. GITHUB REPOSITORY LINK:
 -----------------------------------------------------------------------------
 Repository URL:
-https://github.com/username/TaskFlow-Web-Application
+https://github.com/MUKULJHA-134/Minor_project_internselite
+VIT LIC:
+
 
 (Replace "username" with your GitHub profile handle upon uploading)
 
